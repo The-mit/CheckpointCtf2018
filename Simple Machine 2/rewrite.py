@@ -5,3 +5,4 @@ for i, c in enumerate(stack[:-1]):
 	flag += chr(c ^ stack[i+1])
 
 print flag
+# flag{XoRRollINGR0LliNGRollinGR0lL!nG}
